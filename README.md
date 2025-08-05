@@ -4,7 +4,7 @@
 
 ## Dependencies
 ```
-sudo pacman -S hyprland kitty mpv stow
+sudo pacman -S hyprland kitty mpv stow atuin fastfetch neofetch nvim rofi librewolf obs-studio
 ```
 ### Ax-Shell
 https://github.com/Axenide/Ax-Shell
