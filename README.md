@@ -1,4 +1,6 @@
 # Hyprland / Hyprdots dotfiles
+![Alt text](./assets/picture.png)
+
 
 ## Dependencies
 ```
