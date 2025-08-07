@@ -12,7 +12,7 @@ alias er="protonhax run 1245620 /home/mahiru/.wine/drive_c/Program\ Files/Cheat\
 alias fix-controller="sudo modprobe -r hid_playstation"
 alias revert-controller="sudo modprobe hid_playstation"
 alias resize="~/Apps/resize_video.sh"
-alias autoclicker="sudo ~/Apps/ac"
+alias ac="~/Apps/uClicker/uClicker"
 
 
 export PATH="$HOME/.local/bin:$PATH"
