@@ -11,7 +11,7 @@ alias sbr="protonhax run 3489700 /home/mahiru/.wine/drive_c/Program\ Files/Cheat
 alias er="protonhax run 1245620 /home/mahiru/.wine/drive_c/Program\ Files/Cheat\ Engine/Cheat\ Engine.exe"
 alias fix-controller="sudo modprobe -r hid_playstation"
 alias revert-controller="sudo modprobe hid_playstation"
-alias resize="~/Apps/resize_video.sh"
+alias compress="~/Apps/resize_video.sh"
 alias ac="cd ~/Apps/uClicker/;./uClicker"
 
 
