@@ -9,11 +9,14 @@ alias ax-shell="curl -fsSL https://raw.githubusercontent.com/Axenide/Ax-Shell/ma
 alias ds3="protonhax run 374320 /home/mahiru/.wine/drive_c/Program\ Files/Cheat\ Engine/Cheat\ Engine.exe"
 alias sbr="protonhax run 3489700 /home/mahiru/.wine/drive_c/Program\ Files/Cheat\ Engine/Cheat\ Engine.exe"
 alias er="protonhax run 1245620 /home/mahiru/.wine/drive_c/Program\ Files/Cheat\ Engine/Cheat\ Engine.exe"
+alias erfps="protonhax run 1245620 /home/mahiru/Apps/ErFPSUnlocker.exe"
 alias fix-controller="sudo modprobe -r hid_playstation"
 alias revert-controller="sudo modprobe hid_playstation"
 alias compress="~/Apps/resize_video.sh"
 alias splitmanga="~/Apps/splitmanga.sh"
 alias ac="cd ~/Apps/uClicker/;./uClicker"
+alias upscale="~/Apps/upscale.sh"
+alias blur="~/Apps/blur/blur-Linux-Release-x64"
 
 
 export PATH="$HOME/.local/bin:$PATH"
