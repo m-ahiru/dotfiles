@@ -1587,9 +1587,9 @@
 
             "output-gain": 0.0,
 
-            "release": 170.0,
+            "release": 700.0,
 
-            "vad-thres": 50.0,
+            "vad-thres": 20.0,
 
             "wet": 0.0
 
