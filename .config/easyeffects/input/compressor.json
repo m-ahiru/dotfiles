@@ -1589,7 +1589,7 @@
 
             "release": 700.0,
 
-            "vad-thres": 60.0,
+            "vad-thres": 65.0,
 
             "wet": 0.0
 
