@@ -18,9 +18,8 @@ alias splitmanga="~/Apps/splitmanga.sh"
 alias ac="cd ~/Apps/uClicker/;./uClicker"
 alias upscale="~/Apps/upscale.sh"
 alias blur="~/Apps/blur/blur-Linux-Release-x64"
-alias chatgpt="chromium --app=https://chatgpt.com --class ChatGPT"
-alias soundcloud="chromium --profile-directory=Default --app-id=eikjhbkpemdappjfcmdeeeamdpkgabmk"
-
+alias chatgpt="nohup chromium --app=https://chatgpt.com --class ChatGPT >/dev/null 2>&1 &"
+alias soundcloud="nohup chromium --profile-directory=Default --app-id=eikjhbkpemdappjfcmdeeeamdpkgabmk >/dev/null 2>&1 &"
 
 export PATH="$HOME/.local/bin:$PATH"
 
