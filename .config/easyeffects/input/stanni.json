@@ -1,7 +1,7 @@
 {
     "input": {
         "bass_enhancer#0": {
-            "amount": 3.0,
+            "amount": 1.5,
             "blend": 0.0,
             "bypass": false,
             "floor": 20.0,
@@ -743,8 +743,8 @@
             "input-gain": 0.0,
             "model-name": "",
             "output-gain": 0.0,
-            "release": 170.0,
-            "vad-thres": 50.0,
+            "release": 700.0,
+            "vad-thres": 65.0,
             "wet": 0.0
         },
         "stereo_tools#0": {
