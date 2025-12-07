@@ -19,6 +19,7 @@ alias ac="cd ~/Apps/uClicker/;./uClicker"
 alias upscale="~/Apps/upscale.sh"
 alias blur="~/Apps/blur/blur-Linux-Release-x64"
 alias chatgpt="setsid chromium --app=https://chatgpt.com --class ChatGPT >/dev/null 2>&1 &"
+alias whatsapp="setsid chromium --app=https://web.whatsapp.com --class WhatsApp >/dev/null 2>&1 &"
 alias soundcloud="setsid chromium --profile-directory=Default --app-id=eikjhbkpemdappjfcmdeeeamdpkgabmk >/dev/null 2>&1 &"
 alias scratchpad="setsid kitty --class ScratchpadTerm --title Scratchpadkitty &"
 
