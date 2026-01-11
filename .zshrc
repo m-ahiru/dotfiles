@@ -7,6 +7,7 @@ eval "$(starship init zsh)"
 alias convertmedia='f(){ ffmpeg -i "$1" -q:a 0 -map a "${1%.*}.$2"; }; f'
 alias ax-shell="curl -fsSL is.gd/axshell | bash"
 alias ds3="protonhax run 374320 /home/mahiru/.wine/drive_c/Program\ Files/Cheat\ Engine/Cheat\ Engine.exe"
+alias p5="protonhax run 1687950 /home/mahiru/.wine/drive_c/Program\ Files/Cheat\ Engine/Cheat\ Engine.exe"
 alias sbr="protonhax run 3489700 /home/mahiru/.wine/drive_c/Program\ Files/Cheat\ Engine/Cheat\ Engine.exe"
 alias er="protonhax run 1245620 /home/mahiru/.wine/drive_c/Program\ Files/Cheat\ Engine/Cheat\ Engine.exe"
 alias ertool="protonhax run 1245620 /home/mahiru/Documents/EldenRingTool.exe"
