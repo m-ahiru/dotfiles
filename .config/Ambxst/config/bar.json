@@ -1,0 +1,15 @@
+{
+    "position": "top",
+    "launcherIcon": "/home/mahiru/Documents/svg/timberhearth.svg",
+    "launcherIconTint": false,
+    "launcherIconFullTint": false,
+    "launcherIconSize": 30,
+    "screenList": [],
+    "enableFirefoxPlayer": false,
+    "barColor": [
+        [
+            "surface",
+            0
+        ]
+    ]
+}
