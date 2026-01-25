@@ -12,6 +12,7 @@ alias sbr="protonhax run 3489700 /home/mahiru/.wine/drive_c/Program\ Files/Cheat
 alias runvibe="cd /home/mahiru/Apps/vibe && cargo run --release"
 alias er="protonhax run 1245620 /home/mahiru/.wine/drive_c/Program\ Files/Cheat\ Engine/Cheat\ Engine.exe"
 alias ertool="protonhax run 1245620 /home/mahiru/Documents/EldenRingTool.exe"
+alias ttool="protonhax run 1245620 /home/mahiru/Documents/TarnishedTool.exe"
 alias silk="protonhax run 1030300 /home/mahiru/.wine/drive_c/Program\ Files/Cheat\ Engine/Cheat\ Engine.exe"
 alias fix-controller="sudo modprobe -r hid_playstation"
 alias revert-controller="sudo modprobe hid_playstation"

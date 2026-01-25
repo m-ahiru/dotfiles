@@ -52,7 +52,7 @@
             "widgets": {
                 "argument": "ambxst:dashboard-widgets",
                 "dispatcher": "global",
-                "key": "",
+                "key": "SPACE",
                 "modifiers": [
                     "SUPER"
                 ]
